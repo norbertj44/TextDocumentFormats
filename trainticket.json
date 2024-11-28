@@ -1,0 +1,13 @@
+{
+"trip":["Bochnia","Rzeszów Główny"],
+"year": 2020,
+"day": "24-06",
+"triptime": "2h 10min",
+"isStudentPromo": false,
+"isNormal": true,
+"trainid": "2424",
+"isPaymentCash": true,
+"isPaymentCard": false,
+"price": 24,
+"ticketid": "00000024"
+}

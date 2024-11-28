@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email> 
+    <name>Norbert Janik</name>
+    <recname>Recipient X</recname>
+    <subject>TextDocumentFormats</subject>
+    <messbody>Each email contains at least information about the sender, recipient, subject and message body. Create an email.xml document that contains the data of one email.</messbody>
+</email>

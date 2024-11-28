@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="Car" brand="Toyota" model="Corolla" releaseYear="2020">
+        <fuel>Gas</fuel>
+        <color>Black</color>
+        <distance unit="km">30000</distance>
+        <capacity>5 passengers</capacity>
+    </vehicle>
+    <vehicle type="Bicycle" brand="Kross" model="MTB" releaseYear="2018">
+        <fuel>None</fuel>
+        <color>Red and Black</color>
+        <weight unit="kg">12</weight>
+        <capacity>1 passenger</capacity>
+    </vehicle>
+    <vehicle type="Train" brand="Siemens" model="Velaro" releaseYear="2015">
+        <fuel>Electric</fuel>
+        <color>White and Yellow</color>
+        <speed unit="km/h">160</speed>
+        <capacity>150 passengers</capacity>
+    </vehicle>
+</transport>
